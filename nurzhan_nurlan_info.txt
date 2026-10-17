@@ -1,0 +1,5 @@
+Name: Nurzhan
+Surname: Nurlan
+Group: IT2-2313
+Student ID: 41588
+Course: DevOps
